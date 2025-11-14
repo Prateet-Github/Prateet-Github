@@ -1,5 +1,3 @@
-GitHub Readme
-
 # Hey there, I'm Prateet Tiwari 👋
 
 ## Full Stack Developer  | Building Production-Ready Web Applications
@@ -11,7 +9,8 @@ Full-stack developer specializing in modern frontends and scalable backend syste
 🚀 What I’m Working On
 
 • Social Media App (MERN) – A full-stack social platform with real-time feed, authentication, profiles, posts, and notifications
-     • SmartBuy (v2) – An AI-powered device recommendation platform with live marketplace data, filtering, and    comparison features
+
+• SmartBuy (v2) – An AI-powered device recommendation platform with live marketplace data, filtering, and    comparison features
 
 ---
 
@@ -41,9 +40,9 @@ Full-stack developer specializing in modern frontends and scalable backend syste
 
 ---
 
-🎯 Featured Projects
+## 🎯 Featured Projects
 
-🚖 GetRides
+# 🚖 GetRides
 
 Ride-Hailing Full-Stack Application
 	•	Real-time driver & rider location tracking
@@ -55,7 +54,7 @@ Tech: MERN • Node.js • Express • MongoDB • Maps API • JWT Auth
 
 ⸻
 
-🛒 SmartBuy
+# 🛒 SmartBuy
 
 AI-Based Device Recommendation Platform
 	•	Compare devices using structured specs and filters
@@ -67,7 +66,7 @@ Tech: React • Node.js • Express • MongoDB • Tailwind CSS
 
 ⸻
 
-🗺️ Map App
+# 🗺️ Map App
 
 Interactive Maps & Location-Based Features
 	•	Real-time location tracking
@@ -78,7 +77,6 @@ Interactive Maps & Location-Based Features
 Tech: React • Map APIs • Tailwind CSS
 
 
-## 📊 GitHub Stats
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -97,11 +95,11 @@ Tech: React • Map APIs • Tailwind CSS
 ---
 
 ## 🌱 Currently Learning
-
-- Advanced TypeScript patterns (Generics, Utility Types, Conditional Types)
-- UI/UX design principles and animation techniques
-- System design and software architecture
-- Performance optimization and Core Web Vitals
+	•	Advanced database concepts (indexing, replication, transactions, query optimization)
+	•	DevOps fundamentals (Docker, CI/CD, container workflows)
+	•	FastAPI for high-performance backend APIs
+	•	System design patterns (scalability, caching, load balancing, queues)
+	•	Cloud deployment workflows and production-ready best practices
 
 ---
 
@@ -110,8 +108,8 @@ Tech: React • Map APIs • Tailwind CSS
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-prateettiwari29@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prateettiwari29@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-prateet-tiwari?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateet-tiwari)
-[![Portfolio](https://img.shields.io/badge/Portfolio?style=for-the-badge&logo=vercel&logoColor=white)](remix-framework-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prateet--tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateet-tiwari)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://remix-framework-portfolio.vercel.app)
 [![Location](https://img.shields.io/badge/Location-Delhi,_India-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
 
 </div>
@@ -125,7 +123,7 @@ If you’re looking for a developer who writes clean code, ships fast, and solve
 
 <div align="center">
 
-### 💡 *"Building exceptional web experiences, one component at a time."*
+###  *“Crafting scalable systems and seamless user experiences, step by step.”*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Prateet-Github&color=blueviolet&style=for-the-badge)
 
