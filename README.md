@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Stats](https://github-readme-stats.vercel.app/api?username=Prateet-Github&show_icons=true&theme=radical)
+![Metrics](https://metrics.lecoq.io/Prateet-Github?template=classic&languages=1&languages.limit=8&languages.sections=recent&config.timezone=Asia%2FKolkata)
 
 <!--
 **Prateet-Github/Prateet-Github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
