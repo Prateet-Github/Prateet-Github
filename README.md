@@ -246,21 +246,28 @@ Focus Areas:
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prateet-Github&theme=react-dark&hide_border=true&area=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prateet-Github&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prateet-Github&theme=radical" alt="Profile Summary" width="100%" />
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Prateet-Github&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prateet-Github&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
