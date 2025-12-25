@@ -55,16 +55,18 @@ I'm a **full-stack developer** who builds **production-ready applications** from
 </td>
 <td width="50%">
 
-### 🛒 SmartBuy - AI Device Recommender
-**Intelligent product comparison platform**
+### 🔐 Authly - SDK
+**A Headless Authentication Client**
 
-- AI-powered device recommendations
-- Live marketplace price tracking
-- Advanced filtering & comparison
-- Performance-based suggestions
-- Responsive modern UI
+- Email/password authentication
+- Automatic access token refresh
+- Secure refresh token rotation
+- Multi-device session tracking
+- Per-session revocation & global logout
+- TypeScript-first, framework-agnostic
+- Works in Node.js and browser environments
 
-**Tech:** React • Node.js • Express • MongoDB • TailwindCSS
+**Tech:** TypeScript
 
 </td>
 </tr>
@@ -129,21 +131,22 @@ I'm a **full-stack developer** who builds **production-ready applications** from
 </td>
 <td width="50%">
 
-### 🛒 SmartBuy - AI Device Recommender
-**Intelligent product comparison & recommendation platform**
+### 🔐 Authly - SDK
+**A Headless Authentication Client**
 
 #### Key Features:
-- 🤖 AI-powered device recommendations
-- 📊 Structured specs & advanced filtering
-- 💵 Real-time price comparisons
-- ⚡ Performance-based suggestions
-- 🎨 Clean, modern UI design
-- 🚀 Optimized for large datasets
+- Email/password authentication
+- Automatic access token refresh
+- Secure refresh token rotation
+- Multi-device session tracking
+- Per-session revocation & global logout
+- TypeScript-first, framework-agnostic
+- Works in Node.js and browser environments
 
 #### Tech Stack:
-`React` `Node.js` `Express` `MongoDB` `TailwindCSS`
+ `TypeScript`
 
-**[View Repository →](https://github.com/Prateet-Github)**
+**[View Repository →](https://github.com/Prateet-Github/authly-sdk)**
 
 </td>
 </tr>
@@ -183,7 +186,7 @@ I'm a **full-stack developer** who builds **production-ready applications** from
 #### Tech Stack:
 `React` `Map APIs` `TailwindCSS` `JavaScript`
 
-**[View Repository →](https://github.com/Prateet-Github)**
+**[View Repository →](https://github.com/Prateet-Github/map-app)**
 
 </td>
 </tr>
