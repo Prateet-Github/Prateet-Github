@@ -4,9 +4,9 @@
 
 ### Full Stack Developer | Building Production-Ready Web Applications
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://remix-framework-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://prateet-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateet-tiwari)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prateettiwari29@gmail.com)
+[![Email](https://img.shields.io/badge/Email-prateettiwari29@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prateettiwari29@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Delhi,_India-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Prateet-Github&color=blueviolet&style=for-the-badge)
