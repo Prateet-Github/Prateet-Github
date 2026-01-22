@@ -37,39 +37,6 @@ Open to full-time roles, internships, and impactful engineering opportunities.
 
 ---
 
-## What I'm Building
-
-<table>
-<tr>
-<td width="50%">
-
-### Logstream
-**High-throughput event ingestion and analytics backend**
-
-- Event-driven backend for ingesting
-- Streaming, and analyzing logs at scale.
-
-**Tech:** • Node.js • Fastify • Kafka • Clickhouse • Docker
-
-</td>
-<td width="50%">
-
-### Linkit CLI
-**A CLI**
-
-- Email/password authentication
-- TypeScript-first, framework-agnostic
-- Works in Windows, Mac and Linux
- IN PROGRESS
-
-**Tech:**  • Typescript • Nodejs  • Express
-
-</td>
-</tr>
-</table>
-
----
-
 ## Tech Stack
 
 <div align="center">
@@ -98,55 +65,5 @@ Open to full-time roles, internships, and impactful engineering opportunities.
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
----
-
-## Currently Learning & Exploring
-
-```yaml
-Advanced Concepts:
-  - Database Optimization: Indexing, replication, transactions, query performance
-  - System Design: Scalability, caching strategies, load balancing, message queues
-  - DevOps: Docker containerization, CI/CD pipelines, deployment automation
-  - Backend Performance: FastAPI, async programming, API optimization
-  - Cloud Infrastructure: AWS, Azure, production deployment best practices
-  
-Focus Areas:
-  - Building production-grade architectures
-  - Writing scalable, maintainable code
-  - Modern development workflows
-  - Performance optimization techniques
-```
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prateet-Github&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prateet-Github&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 *"Crafting scalable systems and seamless user experiences, one commit at a time."*
-
-<br>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
