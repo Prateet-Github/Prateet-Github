@@ -25,16 +25,9 @@ const prateet = {
     currentFocus: ["Building Scalable Systems", "Modern Web Development", "Production Apps"],
     lookingFor: "Full-time roles & internships in Full Stack Development",
     interests: ["System Design", "DevOps", "Clean Architecture", "Problem Solving"],
-    availability: "Open to opportunities"
+    availability: "Open to full-time roles, internships, and impactful engineering opportunities"
 };
 ```
-
-Full-stack developer focused on building reliable, production-grade software from scratch.
-I specialize in scalable backend architecture and user-centric frontend experiences.
-I care deeply about code quality, performance, and maintainability, and I ship systems that solve real problems.
-
-Open to full-time roles, internships, and impactful engineering opportunities.
-
 ---
 
 ## Tech Stack
@@ -57,7 +50,6 @@ Open to full-time roles, internships, and impactful engineering opportunities.
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -86,7 +78,5 @@ Open to full-time roles, internships, and impactful engineering opportunities.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
