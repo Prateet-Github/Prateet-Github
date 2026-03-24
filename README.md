@@ -19,7 +19,7 @@
 
 ```javascript
 const prateet = {
-    role: "Full Stack Developer",
+    role: "Full Stack Engineer",
     location: "Delhi, India",
     education: "Computer Science Engineering",
     currentFocus: ["Building Scalable Systems", "Modern Web Development", "Production Apps"],
