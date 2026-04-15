@@ -77,3 +77,31 @@ const prateet = {
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 </div>
+
+## Projects
+
+1. Video Streaming Platform — [Frontend](https://github.com/Prateet-Github/streamit-client) | [Backend](https://github.com/Prateet-Github/streamit-server) | [Worker](https://github.com/Prateet-Github/worker-node)
+2. Secure Payment Microservice — [Backend](https://github.com/Prateet-Github/payment-service)
+3. Log Ingestion System — [Backend](https://github.com/Prateet-Github/logstream)
+4. Authentication NPM Package — [SDK](https://github.com/Prateet-Github/authly-sdk) | [Backend](https://github.com/Prateet-Github/authly-server) | [Registry](https://www.npmjs.com/package/authly-sdk) | [Live](https://authly-eight.vercel.app/)
+5. Social Media Platform — [Frontend](https://github.com/Prateet-Github/geeksgram-frontend) | [Backend](https://github.com/Prateet-Github/geeksgram-backend)
+6. Ride Hailing Platform — [Frontend](https://github.com/Prateet-Github/getrides-frontend) | [Backend](https://github.com/Prateet-Github/getrides-backend)
+7. Shipping Carrier Service — [Backend](https://github.com/Prateet-Github/)
+8. Portfolio(updated) — [Repo](https://github.com/Prateet-Github/prateet.dev) | [Live](https://prateet-dev.vercel.app)
+9. DeltaSync — [Repo](https://github.com/Prateet-Github/deltasync)
+10. LinkIt CLI — [CLI](https://github.com/Prateet-Github/linkit-cli) | [Backend](https://github.com/Prateet-Github/linkit-server)
+11. SmartBuy — [Frontend](https://github.com/Prateet-Github/smartbuy-frontend) | [Backend](https://github.com/Prateet-Github/smartbuy-backend)
+12. Expense Tracker — [Repo](https://github.com/Prateet-Github/expense-tracker) [Live](https://expense-vault-six.vercel.app/)
+13. OpenRoutes — [Repo](https://github.com/Prateet-Github/openroute)
+14. Tracker App — [Repo](https://github.com/Prateet-Github/tracker-app)
+15. Quick GPT — [Repo](https://github.com/Prateet-Github/quickgpt) 
+16. Friday — [Repo](https://github.com/Prateet-Github/friday)
+17. Chat App — [Repo](https://github.com/Prateet-Github/chat-app)
+18. Weather App — [Repo](https://github.com/Prateet-Github/weather-app)
+19. Portfolio(old) — [Repo](https://github.com/Prateet-Github/portfolio) | [Live](https://my-portfolio-prateet-tiwaris-projects.vercel.app/)
+20. Apple UI — [Repo](https://github.com/Prateet-Github/apple-ui)
+21. Spotify UI — [Repo](https://github.com/Prateet-Github/spotify-clone)
+22. Nike UI — [Repo](https://github.com/Prateet-Github/nike-ui) 
+23. The Weeknd — [Repo](https://github.com/Prateet-Github/theweeknd) | [Live](https://the-weeknd-project-three.vercel.app/)
+24. SnapShop — [Repo](https://github.com/Prateet-Github/snapshop)
+25. YouTube UI — [Backend](https://github.com/Prateet-Github/youtube-ui)
