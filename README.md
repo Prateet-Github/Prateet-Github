@@ -111,3 +111,10 @@ const prateet = {
 25. The Weeknd — [Repo](https://github.com/Prateet-Github/theweeknd) | [Live](https://the-weeknd-project-three.vercel.app/)
 26. SnapShop — [Repo](https://github.com/Prateet-Github/snapshop)
 27. YouTube UI — [Repo](https://github.com/Prateet-Github/youtube-ui)
+
+
+---
+
+## Open Source Contributions 
+
+1. Calcom (cal.diy) — [#29236](https://github.com/calcom/cal.diy/pull/29236)
