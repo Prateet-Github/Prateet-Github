@@ -78,7 +78,7 @@ const prateet = {
 
 ### Full Stack | System Design | Backend Services
 
-01. ⭐️ Video Streaming Platform — [Frontend](https://github.com/Prateet-Github/streamit-client) | [Backend](https://github.com/Prateet-Github/streamit-server) | [Worker](https://github.com/Prateet-Github/worker-node)
+01. ⭐️ Video Streaming Platform — [Frontend](https://github.com/Prateet-Github/streamit-client) | [Backend](https://github.com/Prateet-Github/streamit-server) | [Worker Node](https://github.com/Prateet-Github/worker-node) | [Worker Go](https://github.com/Prateet-Github/worker-go)
 02. ⭐️ Secure Payment Microservice — [Backend](https://github.com/Prateet-Github/payment-service)
 03. ⭐️ Notification System - [Backend](https://github.com/Prateet-Github/notification-system) (Currently Building)
 04. ⭐️ Distributed Rate Limiter - [Backend](https://github.com/Prateet-Github/rate-limiter) (Currently Building)
