@@ -116,4 +116,5 @@ const prateet = {
 
 ## Open Source Contributions 
 
-Calcom (cal.diy) — [#29236](https://github.com/calcom/cal.diy/pull/29236)
+- Calcom (cal.diy) — [#29236](https://github.com/calcom/cal.diy/pull/29236)
+- Directus - [#27356](https://github.com/directus/directus/pull/27356)
