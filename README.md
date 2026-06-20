@@ -2,7 +2,7 @@
 
 # Hey there, I'm Prateet Tiwari!
 
-### Full Stack Engineer | Building Production-Ready Web Applications
+### Full Stack Engineer | Building Scalable Systems & Production-Grade Applications
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://prateet-dev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateet-tiwari)
@@ -22,9 +22,8 @@ const prateet = {
     role: "Full Stack Engineer",
     location: "Delhi, India",
     education: "Computer Science Engineering",
-    currentFocus: ["Building Scalable Systems", "Modern Web Development", "Production Apps"],
-    lookingFor: "Full-time roles & internships in Full Stack Development",
-    interests: ["System Design", "DevOps", "Clean Architecture", "Problem Solving"],
+    currentFocus: ["System Design", "Distributed Systems", "High-Performance Backends"],
+    lookingFor: "Full Stack & Backend Engineering Opportunities",
     availability: "Open to full-time roles, internships, and impactful engineering opportunities"
 };
 ```
@@ -41,7 +40,6 @@ const prateet = {
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
@@ -74,47 +72,17 @@ const prateet = {
 
 ---
 
-## Projects
+## Featured Projects
 
-### Full Stack | System Design | Backend Services
-
-01. ⭐️ Video Streaming Platform — [Frontend](https://github.com/Prateet-Github/streamit-client) | [Backend](https://github.com/Prateet-Github/streamit-server) | [Worker Node](https://github.com/Prateet-Github/worker-node) | [Worker Go](https://github.com/Prateet-Github/worker-go)
-02. ⭐️ Secure Payment Microservice — [Backend](https://github.com/Prateet-Github/payment-service)
-03. ⭐️ Notification System - [Backend](https://github.com/Prateet-Github/notification-system) (Currently Building)
-04. ⭐️ Log Ingestion System — [Backend](https://github.com/Prateet-Github/logstream) 
-05. ⭐️ Authentication NPM Package — [SDK](https://github.com/Prateet-Github/authly-sdk) | [Backend](https://github.com/Prateet-Github/authly-server) | [Registry](https://www.npmjs.com/package/authly-sdk) | [Live](https://authly-eight.vercel.app/)
-06. Social Media Platform — [Frontend](https://github.com/Prateet-Github/geeksgram-frontend) | [Backend](https://github.com/Prateet-Github/geeksgram-backend)
-07. Ride Hailing Platform — [Frontend](https://github.com/Prateet-Github/getrides-frontend) | [Backend](https://github.com/Prateet-Github/getrides-backend)
-08. Shipping Carrier Service — [Backend](https://github.com/Prateet-Github/shipping-carrier-service)
-09. Portfolio (updated) — [Repo](https://github.com/Prateet-Github/prateet.dev) | [Live](https://prateet-dev.vercel.app)
-
-### I've got more :)
-
-10. DeltaSync — [Repo](https://github.com/Prateet-Github/deltasync) 
-11. LinkIt CLI — [CLI](https://github.com/Prateet-Github/linkit-cli) | [Backend](https://github.com/Prateet-Github/linkit-server)
-12. SmartBuy — [Frontend](https://github.com/Prateet-Github/smartbuy-frontend) | [Backend](https://github.com/Prateet-Github/smartbuy-backend)
-13. Expense Tracker — [Repo](https://github.com/Prateet-Github/expense-tracker) | [Live](https://expense-vault-six.vercel.app/)
-14. OpenRoutes — [Repo](https://github.com/Prateet-Github/openroute)
-15. Tracker App — [Repo](https://github.com/Prateet-Github/tracker-app)
-16. Quick GPT — [Repo](https://github.com/Prateet-Github/quickgpt) 
-17. Friday — [Repo](https://github.com/Prateet-Github/friday)
-18. Chat App — [Repo](https://github.com/Prateet-Github/chat-app)
-19. Weather App — [Repo](https://github.com/Prateet-Github/weather-app)
-
-### Frontend | UI Projects
-
-20. Portfolio (old) — [Repo](https://github.com/Prateet-Github/portfolio) | [Live](https://my-portfolio-prateet-tiwaris-projects.vercel.app/) 
-21. Apple UI — [Repo](https://github.com/Prateet-Github/apple-ui)
-22. Spotify UI — [Repo](https://github.com/Prateet-Github/spotify-clone)
-23. Nike UI — [Repo](https://github.com/Prateet-Github/nike-ui) 
-24. The Weeknd — [Repo](https://github.com/Prateet-Github/theweeknd) | [Live](https://the-weeknd-project-three.vercel.app/)
-25. SnapShop — [Repo](https://github.com/Prateet-Github/snapshop)
-26. YouTube UI — [Repo](https://github.com/Prateet-Github/youtube-ui)
-
-
----
+- ⭐️ Video Streaming Platform - [Frontend](https://github.com/Prateet-Github/streamit-client) | [Backend](https://github.com/Prateet-Github/streamit-server) | [Worker Node](https://github.com/Prateet-Github/worker-node) | [Worker Go](https://github.com/Prateet-Github/worker-go)
+- ⭐️ Secure Payment Microservice - [Backend](https://github.com/Prateet-Github/payment-service)
+- ⭐️ Notification System - [Backend](https://github.com/Prateet-Github/notification-system)
+- ⭐️ Log Ingestion System - [Backend](https://github.com/Prateet-Github/logstream) 
+- ⭐️ Authentication NPM Package - [SDK](https://github.com/Prateet-Github/authly-sdk) | [Backend](https://github.com/Prateet-Github/authly-server) | [Registry](https://www.npmjs.com/package/authly-sdk) | [Live](https://authly-eight.vercel.app/)
+- Social Media Platform - [Frontend](https://github.com/Prateet-Github/geeksgram-frontend) | [Backend](https://github.com/Prateet-Github/geeksgram-backend)
+- Ride Hailing Platform - [Frontend](https://github.com/Prateet-Github/getrides-frontend) | [Backend](https://github.com/Prateet-Github/getrides-backend)
 
 ## Open Source Contributions 
 
-- Calcom (cal.diy) — [#29236](https://github.com/calcom/cal.diy/pull/29236)
-- Directus - [#27356](https://github.com/directus/directus/pull/27356)
+- Calcom - Fixed App Store search inconsistencies through input normalization [#29236](https://github.com/calcom/cal.diy/pull/29236)
+- Directus - Fixed incorrect pie chart tooltip values when decimals were set to zero [#27356](https://github.com/directus/directus/pull/27356)
