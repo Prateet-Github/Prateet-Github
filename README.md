@@ -79,10 +79,10 @@ const prateet = {
 - ⭐️ Notification System - [Backend](https://github.com/Prateet-Github/notification-system)
 - ⭐️ Log Ingestion System - [Backend](https://github.com/Prateet-Github/logstream) 
 - ⭐️ Authentication NPM Package - [SDK](https://github.com/Prateet-Github/authly-sdk) | [Backend](https://github.com/Prateet-Github/authly-server) | [Registry](https://www.npmjs.com/package/authly-sdk) | [Live](https://authly-eight.vercel.app/)
-- Social Media Platform - [Frontend](https://github.com/Prateet-Github/geeksgram-frontend) | [Backend](https://github.com/Prateet-Github/geeksgram-backend)
-- Ride Hailing Platform - [Frontend](https://github.com/Prateet-Github/getrides-frontend) | [Backend](https://github.com/Prateet-Github/getrides-backend)
+- ⭐️ Social Media Platform - [Frontend](https://github.com/Prateet-Github/geeksgram-frontend) | [Backend](https://github.com/Prateet-Github/geeksgram-backend)
+- ⭐️ Ride Hailing Platform - [Frontend](https://github.com/Prateet-Github/getrides-frontend) | [Backend](https://github.com/Prateet-Github/getrides-backend)
 
 ## Open Source Contributions 
 
-- Calcom - Fixed App Store search inconsistencies through input normalization [#29236](https://github.com/calcom/cal.diy/pull/29236)
-- Directus - Fixed incorrect pie chart tooltip values when decimals were set to zero [#27356](https://github.com/directus/directus/pull/27356)
+- ⭐️ Calcom - Fixed App Store search inconsistencies through input normalization [#29236](https://github.com/calcom/cal.diy/pull/29236)
+- ⭐️ Directus - Fixed incorrect pie chart tooltip values when decimals were set to zero [#27356](https://github.com/directus/directus/pull/27356)
