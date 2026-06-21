@@ -75,10 +75,10 @@ const prateet = {
 ## Featured Projects
 
 - ⭐️ Video Streaming Platform - [Frontend](https://github.com/Prateet-Github/streamit-client) | [Backend](https://github.com/Prateet-Github/streamit-server) | [Worker Node](https://github.com/Prateet-Github/worker-node) | [Worker Go](https://github.com/Prateet-Github/worker-go)
-- ⭐️ Secure Payment Microservice - [Backend](https://github.com/Prateet-Github/payment-service)
-- ⭐️ Notification System - [Backend](https://github.com/Prateet-Github/notification-system)
+- ⭐️ Distributed Notification Service - [Backend](https://github.com/Prateet-Github/notification-system)
+- ⭐️ Secure Payment Service - [Backend](https://github.com/Prateet-Github/payment-service)
 - ⭐️ Log Ingestion System - [Backend](https://github.com/Prateet-Github/logstream) 
-- ⭐️ Authentication NPM Package - [SDK](https://github.com/Prateet-Github/authly-sdk) | [Backend](https://github.com/Prateet-Github/authly-server) | [Registry](https://www.npmjs.com/package/authly-sdk) | [Live](https://authly-eight.vercel.app/)
+- ⭐️ Authentication Package (NPM) - [SDK](https://github.com/Prateet-Github/authly-sdk) | [Backend](https://github.com/Prateet-Github/authly-server) | [Registry](https://www.npmjs.com/package/authly-sdk) | [Live](https://authly-eight.vercel.app/)
 - ⭐️ Social Media Platform - [Frontend](https://github.com/Prateet-Github/geeksgram-frontend) | [Backend](https://github.com/Prateet-Github/geeksgram-backend)
 - ⭐️ Ride Hailing Platform - [Frontend](https://github.com/Prateet-Github/getrides-frontend) | [Backend](https://github.com/Prateet-Github/getrides-backend)
 
