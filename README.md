@@ -76,7 +76,7 @@ const prateet = {
 
 ## Featured Projects
 
-- ⭐️ Video Streaming Platform - [Frontend](https://github.com/Prateet-Github/streamit-client) | [Backend](https://github.com/Prateet-Github/streamit-server) | [Worker Node](https://github.com/Prateet-Github/worker-node) | [Worker Go](https://github.com/Prateet-Github/worker-go)
+- ⭐️ Video Streaming Platform - [Frontend](https://github.com/Prateet-Github/streamit-client) | [Backend Node](https://github.com/Prateet-Github/streamit-server) | [Worker Node](https://github.com/Prateet-Github/worker-node)  | [Backend Go](https://github.com/Prateet-Github/streamit-api) | [Worker Go](https://github.com/Prateet-Github/worker-go)
 - ⭐️ Distributed Notification System - [Backend](https://github.com/Prateet-Github/notification-system)
 - ⭐️ Secure Payment Service - [Backend](https://github.com/Prateet-Github/payment-service)
 - ⭐️ Log Ingestion System - [Backend](https://github.com/Prateet-Github/logstream) 
