@@ -1,2 +1,4 @@
 #### *Hey there, I'm Prateet!* 
-*Software Engineer | Backend, Distributed Systems & Full Stack Development | Go, TypeScript & Node.js*
+*Software Engineer | Go & TypeScript*
+
+*I’m focused on Backend Engineering & Distributed Systems. I primarily work with Go & TypeScript, along with experience building full-stack applications.*
